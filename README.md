@@ -2,7 +2,6 @@
 <p align="center">
   <img src="ds-head.jpg" >
 </p>
-
 # Mariana Matos
 
 Computer Scientist and Data Science enthusiast
