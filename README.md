@@ -15,6 +15,7 @@ Computer Scientist and Data Science enthusiast
 ## Projects:
 
 * **Fashion-MNIST Clothing Classification:** https://bit.ly/3sqN349
+* **2020 Kaggle Survey:** https://bit.ly/3foJOGP
 
 
 ---
