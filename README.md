@@ -6,7 +6,7 @@
 
 Computer Scientist and Data Science enthusiast
 
-**Background in:** Python, Machine Learning, Exploratory data analysis. 
+**Background in:** Python, Machine Learning. 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/mariana-matos-3ba384175/)
