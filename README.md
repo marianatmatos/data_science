@@ -4,7 +4,8 @@
 
 # Mariana Matos
 
-Computer Scientist and Data Science enthusiast
+Computer Scientist and artificial intelligence enthusiast
+ 
 
 **Background in:** Python, Machine Learning. 
 
