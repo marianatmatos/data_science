@@ -11,7 +11,7 @@ Computer Scientist and artificial intelligence enthusiast
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/mariana-matos-3ba384175/)
-
+* [Medium](https://marianatmatos.medium.com/)
 
 ## Projects:
 
